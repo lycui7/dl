@@ -14,7 +14,7 @@ import (
 
 var (
 	proxyHost = flag.String(
-		"proxy_server",
+		"dl_proxy_server",
 		"http://127.0.0.1:8118",
 		"proxy server address")
 )
